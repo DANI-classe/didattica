@@ -12,17 +12,15 @@
 {
     "name": "Dreadnought",
     "description": "mazza bilanciata in lega di titanio-acciaio",
-    "price": 85,
-    "img": "res/scar2.jpg"
-
+    "price": 85;
+  "img": "res/maz1.jpg"
 },
 
 {
     "name": "Pat",
     "description": "acciaio inox ",
     "price": 65,
-    "img": "res/scar4.jpg"
-
+"img": "res/maz2.jpg"
 }
 
 
